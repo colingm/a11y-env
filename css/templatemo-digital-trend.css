@@ -194,6 +194,7 @@ https://templatemo.com/tm-538-digital-trend
   a:focus {
     color: var(--secondary-color);
     text-decoration: underline !important;
+    outline: 2px solid blue;
   }
 
   ::selection {
